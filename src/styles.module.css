@@ -1,0 +1,11 @@
+/* add css module styles here (optional) */
+
+.polaridContainer {
+  padding: 0.5em;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.imgClass {
+  border-radius: 0.2em;
+}
