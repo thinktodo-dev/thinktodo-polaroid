@@ -56,8 +56,8 @@ export default App
 
 ## Demo
 
-![vino map gif](https://github.com/thinktodo-dev/thinktodo-polaroid/blob/master/polaroid.gif)
-![vino map gif](https://github.com/thinktodo-dev/thinktodo-polaroid/blob/master/polaroid_list.gif)
+![vino map gif](https://github.com/thinktodo-dev/thinktodo-polaroid/blob/main/polaroid.gif)
+![vino map gif](https://github.com/thinktodo-dev/thinktodo-polaroid/blob/main/polaroid_list.gif)
 
 ## License
 
